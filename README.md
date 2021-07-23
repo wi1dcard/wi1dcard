@@ -2,7 +2,7 @@ Was born in the late 90s, dropped out of school in 2015, have been into software
 
 - A thinker, but rather doing than planning too far beforehand;
 - A practitioner, driven by interests mostly, enjoy trying things different or haven't ever been done by others;
-- A team player, like to provide help or collaborate effectively, except who doesn't google first;
+- A team player, like to collaborate effectively and provide help to people, except those who don't google first;
 - A developer, feeling accomplishment when designed components work smoothly as expected;
 - And an [INTJ](https://www.16personalities.com/intj-personality).
 
