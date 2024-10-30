@@ -1,3 +1,1 @@
-- INTJ
-- BPD
-- BP-II
+
